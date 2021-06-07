@@ -1,0 +1,8 @@
+[user]
+	name = Anis Oseryx
+	email = oseanisx@gmail.com
+[core]
+	editor = nvim
+[alias]
+    # Took from TJ's configuration repo: https://github.com/tjdevries/config_manager
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative
